@@ -1,0 +1,110 @@
+
+.table-styel-2{
+    margin:0px;
+    padding: 0px;
+}
+.table-styel-2 tr td {
+    
+   
+    
+    padding: 0px  ;
+    font-size: 10px;
+    text-align:left;
+    
+    
+
+}
+.table-styel-2 tr th{
+    
+   
+   
+    padding: 0px ;
+    font-size: 10px;
+    text-align: center;
+
+    
+
+}
+.table-styel-1 tr td {
+    
+   
+    
+    padding: 2px 0px  ;
+    font-size: 10px;
+    text-align:left;
+    
+    
+
+}
+.table-styel-1 tr th{
+    
+   
+   
+    padding: 0px ;
+    font-size: 10px;
+    text-align: center;
+
+    
+
+}
+.d1{
+    width:100px;
+    background-color: rgb(201, 201, 201);
+    padding: 2px 0px
+}
+.d2{
+    width:100px;
+    
+}
+.d3{
+    width:100px;
+    background-color: rgb(201, 201, 201);
+}
+.t1{
+    background-color:  rgb(201, 201, 201);
+}
+body{
+    background-color: black;
+}
+
+.conatiner{
+    background-color: white;
+    margin: 110px 100px 100px 450px;
+    height:620px;
+    width: 600px;
+    font-size: 10px;
+  
+   
+}
+
+
+.checked{
+    color:orange
+}
+#radio{
+    margin-right: 40px;
+    margin-left:40px ;
+    background-color: black;
+}
+.primary{
+    padding: 20px;
+    background-color: black;
+}
+#text{
+    width: 565px;
+    height: 100px;
+    
+}
+
+button{
+    margin-top: 10px;
+    padding: 5px
+}
+#email{
+    width: 385px;
+}
+.table1{
+    width: 100px;
+}
+
+
